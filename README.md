@@ -1,0 +1,2 @@
+# smgitshop
+ a demo repo
